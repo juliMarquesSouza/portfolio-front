@@ -15,9 +15,9 @@ import { differentials } from '../data/skills'
           <p>
             Sou Desenvolvedora Front-End apaixonada por tecnologia e pela criação de interfaces
             modernas, acessíveis e funcionais. Tenho experiência no desenvolvimento e manutenção de
-            aplicações web utilizando Vue.js, JavaScript, TypeScript, HTML, CSS e integração com
-            APIs REST. Gosto de transformar ideias em soluções digitais práticas, bonitas e fáceis
-            de navegar.
+            aplicações web utilizando Vue.js, Angular, React, JavaScript, TypeScript, HTML, CSS e
+            integração com APIs REST. Gosto de transformar ideias em soluções digitais práticas,
+            bonitas e fáceis de navegar.
           </p>
 
           <div class="badge-list" aria-label="Diferenciais">
@@ -27,10 +27,12 @@ import { differentials } from '../data/skills'
 
         <aside class="profile-card pixel-card">
           <span class="profile-label">Disponível para</span>
-          <h3>Projetos front-end, melhorias de UI e aplicações Vue.js.</h3>
+          <h3>Projetos front-end, melhorias de UI e aplicações web modernas.</h3>
           <div class="profile-meta">
             <span>Manaus, AM</span>
             <span>Vue.js</span>
+            <span>Angular</span>
+            <span>React</span>
             <span>UI responsiva</span>
           </div>
         </aside>

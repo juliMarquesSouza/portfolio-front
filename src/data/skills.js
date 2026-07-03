@@ -3,6 +3,8 @@ export const skillGroups = [
     title: 'Front-End',
     items: [
       'Vue.js 2 e 3',
+      'Angular',
+      'React',
       'Nuxt.js',
       'JavaScript ES6+',
       'TypeScript',
@@ -10,6 +12,7 @@ export const skillGroups = [
       'CSS3',
       'Sass',
       'Vuex',
+      'Context API',
       'Axios',
       'Design Responsivo',
     ],

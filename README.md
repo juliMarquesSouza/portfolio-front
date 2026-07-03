@@ -1,6 +1,6 @@
 # Portfólio Juliana Marques
 
-Portfólio pessoal de Juliana Marques, Desenvolvedora Front-End, feito com Vue.js e Vite.
+Portfólio pessoal de Juliana Marques, Desenvolvedora Front-End com experiência em Vue.js, Angular e React. O projeto foi feito com Vue.js e Vite.
 
 O visual usa uma estética pixel art moderna e sutil, com fundo escuro roxo/azul-marinho, tons de lilás/lavanda e foco em apresentação profissional.
 

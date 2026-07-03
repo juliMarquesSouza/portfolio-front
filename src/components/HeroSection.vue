@@ -13,7 +13,7 @@
           <a class="btn btn-primary" href="#contato">Entrar em contato</a>
           <a class="btn btn-secondary" href="#projetos">Ver projetos</a>
         </div>
-        <p class="hero-meta">Vue.js • JavaScript • TypeScript • HTML • CSS</p>
+        <p class="hero-meta">Vue.js • Angular • React • TypeScript • JavaScript</p>
       </div>
 
       <aside class="hero-card pixel-card" aria-label="Resumo profissional">
@@ -29,7 +29,7 @@
           <span>Sistemas web</span>
           <span>Manutenção front-end</span>
         </div>
-        <p class="hero-card-footer">Vue.js • TypeScript • UI Responsiva</p>
+        <p class="hero-card-footer">Vue.js • Angular • React • UI Responsiva</p>
       </aside>
     </div>
   </section>
