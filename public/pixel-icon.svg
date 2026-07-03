@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Xicara de codigo">
+  <rect width="64" height="64" rx="12" fill="#111020"/>
+  <rect x="8" y="8" width="48" height="48" rx="8" fill="#211d3a"/>
+  <rect x="12" y="12" width="40" height="40" fill="#282344"/>
+
+  <rect x="18" y="28" width="28" height="4" fill="#ddd6fe"/>
+  <rect x="18" y="32" width="28" height="12" fill="#c4b5fd"/>
+  <rect x="22" y="44" width="20" height="4" fill="#8b5cf6"/>
+  <rect x="18" y="48" width="28" height="4" fill="#a78bfa"/>
+
+  <rect x="46" y="32" width="6" height="4" fill="#ddd6fe"/>
+  <rect x="50" y="36" width="4" height="8" fill="#ddd6fe"/>
+  <rect x="46" y="44" width="6" height="4" fill="#ddd6fe"/>
+  <rect x="46" y="36" width="4" height="8" fill="#211d3a"/>
+
+  <rect x="23" y="35" width="4" height="4" fill="#111020"/>
+  <rect x="27" y="39" width="4" height="4" fill="#111020"/>
+  <rect x="37" y="35" width="4" height="4" fill="#111020"/>
+  <rect x="33" y="39" width="4" height="4" fill="#111020"/>
+
+  <rect x="24" y="18" width="4" height="6" fill="#a78bfa"/>
+  <rect x="32" y="16" width="4" height="8" fill="#ddd6fe"/>
+  <rect x="40" y="18" width="4" height="6" fill="#8b5cf6"/>
+
+  <rect x="8" y="8" width="48" height="48" rx="8" fill="none" stroke="#c4b5fd" stroke-width="2"/>
+</svg>
